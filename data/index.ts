@@ -173,31 +173,31 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Auxiliar Técnico - Bridge Áudio",
+    desc: "Auxílio em instalações de equipamentos de áudio, vídeo e automações residenciais. Desenvolvimento de habilidades técnicas e práticas. (2021 - 2022 | 5 meses)",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/bridge.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    title: "Jovem Aprendiz - CREMEGO",
+    desc: "Atuação na organização de documentos, arquivos físicos e apoio logístico em eventos e palestras. (2022 - 2023 | 10 meses)",
+    className: "md:col-span-2",
+    thumbnail: "/cremego.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    title: "Faculdade - Análise e Desenvolvimento de Sistemas",
+    desc: "Formação focada em Front-End (HTML, CSS, JavaScript, React), Back-End (Java, SpringBoot, Python), Banco de Dados, Web Services, GitHub e Gerenciamento de Projetos. (2022 - 2024 | 2 anos e 10 meses)",
+    className: "md:col-span-2",
+    thumbnail: "/faculdade.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Analista de Dados - Implanta",
+    desc: "Atuação em análise de dados, Excel, SQL e atendimento ao cliente. Desenvolvimento de habilidades analíticas e comunicação. (2023 - 2025 | 2 anos e 3 meses)",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/implanta.svg",
   },
 ];
 
